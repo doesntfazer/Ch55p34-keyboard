@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProjectLocal")(type "KiCad")(uri "D:/KiCad Projects/Ch55p34/components-and-pretty/ProjectLocal.pretty")(options "")(descr ""))
+)
