@@ -2,7 +2,7 @@
 ![Ch55p34](ch55p34.jpg)
 keyboard based on the ch552t Chip. 
 
-Runs on FAK firmware. I named it the Ch55p34 because it's "Ch55p." It is hot-swappable. 
+Runs on [FAK firmware](https://github.com/semickolon/fak). I named it the Ch55p34 because it's "Ch55p." It is hot-swappable. 
 
 I forgot to add mounting holes, and because of this, I had to find a way to mount the plate to the case.
 
